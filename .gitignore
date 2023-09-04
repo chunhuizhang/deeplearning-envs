@@ -1,2 +1,10 @@
 *.npy
-.ipynb_checkpoints
+.ipynb_checkpoints/
+__pycache__/
+apex/
+
+Megatron-LM/
+data/
+
+wandb/
+transformers/
